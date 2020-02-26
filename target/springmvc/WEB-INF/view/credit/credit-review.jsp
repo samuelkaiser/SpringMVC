@@ -13,7 +13,18 @@
 <body>
 <h1>Credit Card Details</h1>
 <ul>
-    <li></li>
+    <li>
+        ${nameOnCard}
+    </li>
+    <li>
+        ${cardNumber}
+    </li>
+    <li>
+        ${securityCode}
+    </li>
+    <li>
+        ${expirationDate}
+    </li>
 </ul>
 </body>
 </html>

@@ -11,19 +11,19 @@
     <title>Credit Card Review</title>
 </head>
 <body>
-<h1>Credit Card Details (Sorry I'm late)</h1>
+<h1>Credit Card Details</h1>
 <ul>
     <li>
-        Cardholder Name: ${nameOnCard}
+        ${nameOnCard}
     </li>
     <li>
-        Card Number: ${cardNumber}
+        ${cardNumber}
     </li>
     <li>
-        CVC: ${securityCode}
+        ${securityCode}
     </li>
     <li>
-        Expires: ${expirationDate}
+        ${expirationDate}
     </li>
 </ul>
 </body>

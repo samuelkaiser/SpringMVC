@@ -18,6 +18,7 @@
 <img src="resources/images/astronaut.jpg" alt="should be an astronaut but nobody's perfect" />
 
 <h1><a href="simple/showForm">Go to simple form</a></h1>
+<h1><a href="credit/showForm">Go to credit form</a></h1>
 
 </body>
 </html>

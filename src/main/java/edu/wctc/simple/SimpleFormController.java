@@ -30,6 +30,4 @@ public class SimpleFormController {
         model.addAttribute("msg", message);
         return "simple/simple-form-result";
     }
-
-
 }
